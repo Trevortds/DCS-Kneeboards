@@ -17,8 +17,11 @@ I also use VoiceAttack with Bailey's configurations and VAICOM which owns the Ra
 
 I'm slowly updating the kneeboards to match my configs. Here are the ones that have been updated so far:
 
+This user's profiles are a secondary source of inspiration https://www.digitalcombatsimulator.com/en/files/filter/user-is-Papa_Saub%C3%A4r/apply/
+
 - F/A-18C
 - P-51D
+- AJS-37
 
 -----
 
