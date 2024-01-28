@@ -22,6 +22,8 @@ This user's profiles are a secondary source of inspiration https://www.digitalco
 - F/A-18C
 - P-51D
 - AJS-37
+- F-16
+- Su-27 & fam
 
 -----
 
