@@ -24,6 +24,10 @@ This user's profiles are a secondary source of inspiration https://www.digitalco
 - AJS-37
 - F-16
 - Su-27 & fam
+- Su-25 A and T
+- A-10A
+
+Also played a little bit with Mi-24, UH-60, AH-64, but not enough to put anything down because helicopters have too many buttons.
 
 -----
 
