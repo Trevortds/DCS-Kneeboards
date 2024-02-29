@@ -3,13 +3,14 @@ Extensive set of kneeboards for DCS World.
 
 # Trevor's Setup
 
-Throttle: VKB Stecs Standard with all hats equipped in the modular slots, and the UP/DN switch configured as a 3 position (since I like to use it for flaps I'm considering changing it to an axis because some modules seem to like that). The "reset" button is my "shift" modifier. (I acutally call it MODIFIER in-game but the upstream of this repo calls it shift and I don't want to chang every single file to match)
+Throttle: VKB Stecs Standard with all hats equipped in the modular slots, and the UP/DN switch configured as a 3 position (since I like to use it for flaps I'm considering changing it to an axis because some modules seem to like that). 
 
 Stick: VKB Gunfighter MCG Ultimate which I configured for maximum flexibility: 
 	- Master Mode hat as trim using the built in configuration, with long-pres to switch it to a 4-way POV hat. 
 	- Dish hat as a 4-way POV hat, long press changes it into a pair of axes with button presses at the extremes, so different modules can use the axes or buttons as needed. 
 	- Flip-up trigger sends different buttons for the up, down, and pulled positions. 
 	- The brake lever is an axis but also sends a button press when pulled, so different modules can use either the axis or the button. 
+	- The grip button is my "shift" modifier. 
 
 I also use VoiceAttack with Bailey's configurations and VAICOM which owns the Radio hat on my throttle, OpenKneeBoard with a Wacom tablet, and VR.
 
