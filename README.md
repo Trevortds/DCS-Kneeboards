@@ -1,39 +1,6 @@
 # DCS-Kneeboards
 Extensive set of kneeboards for DCS World.
 
-# Trevor's Setup
-
-Throttle: VKB Stecs Standard with all hats equipped in the modular slots, and the UP/DN switch configured as a 3 position (since I like to use it for flaps I'm considering changing it to an axis because some modules seem to like that). 
-
-Stick: VKB Gunfighter MCG Ultimate which I configured for maximum flexibility: 
-	- Master Mode hat as trim using the built in configuration, with long-pres to switch it to a 4-way POV hat. 
-	- Dish hat as a 4-way POV hat, long press changes it into a pair of axes with button presses at the extremes, so different modules can use the axes or buttons as needed. 
-	- Flip-up trigger sends different buttons for the up, down, and pulled positions. 
-	- The brake lever is an axis but also sends a button press when pulled, so different modules can use either the axis or the button. 
-	- The grip button is my "shift" modifier. 
-
-I also use VoiceAttack with Bailey's configurations and VAICOM which owns the Radio hat on my throttle, OpenKneeBoard with a Wacom tablet, and VR.
-
-# Trevor's Configurations
-
-I'm slowly updating the kneeboards to match my configs. The "generic" ones in the templates/ folder is where I try to keep my universal intent for all of my buttons and hats, in a perfect world everything else is an implementation of that. Here are the ones that have been updated so far:
-
-This user's profiles are a secondary source of inspiration https://www.digitalcombatsimulator.com/en/files/filter/user-is-Papa_Saub%C3%A4r/apply/
-
-- F/A-18C
-- P-51D
-- AJS-37
-- F-16
-- Su-27 & fam
-- Su-25 A and T
-- A-10A
-
-Also played a little bit with Mi-24, UH-60, AH-64, but not enough to put anything down because helicopters have too many buttons.
-
------
-
-Original from upstream
-
 # General information
 I've spent many hours compiling kneeboards for most planes and helicopters in DCS.  I've tried to cover things that are most critical for each one, the kind of things you most need to know if you're jumping into a plane after not flying it for a while.  **These are not a substitute for the manual, or for Chuck's Guides** (although they are based on those and other sources), but are intended as a quick reference guide to the most important functions while in flight.
 
