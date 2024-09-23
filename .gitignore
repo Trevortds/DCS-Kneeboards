@@ -8,3 +8,4 @@
 **/*.tmp
 # Ignore desktop.ini
 **/desktop.ini
+!**/AJS37/pngs/*.png
